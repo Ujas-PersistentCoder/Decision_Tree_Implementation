@@ -13,7 +13,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
 
 # Import the custom DecisionTree class from our 'tree' package
-from tree.base import DecisionTree
+from decision_tree.base import DecisionTree
 
 def main():
     """Main function to run the demonstration."""
